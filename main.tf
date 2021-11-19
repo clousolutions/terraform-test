@@ -10,6 +10,8 @@ data oci_identity_availability_domains this {
   compartment_id = var.compartment_id
 }
 
+
+
 variable "tenancy_id" {}
 variable "user_id" {}
 variable "fingerprint" {}
